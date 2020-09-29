@@ -30,7 +30,9 @@ Or, you can also clone this repository using git.
 
 ### 3. Open a Jupyter Notebook
 
-1. Open the "Anaconda Navigator" application and click "Launch" under Jupyter Notebook (for Windows)
+Open the "Anaconda Navigator" application and click "Launch" under Jupyter Notebook (for Windows)
+
+OR
 
 Open Terminal and type `conda activate` (For Linux)
 

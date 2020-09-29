@@ -1,6 +1,6 @@
 # Introduction to Python workshop
 
-This repository contains materials for the introductory Python webianr at CUIP.
+This repository contains materials for the introductory Python webinar at CUIP.
 
 ### 1. Software for the workshop
 
@@ -8,7 +8,7 @@ The best learning experience happens when you can edit and run code. So, please 
 
 1. [Click here to download Python Anaconda](https://www.anaconda.com/products/individual). Scroll down to the "Anaconda Installers" section and click the "Graphical Installer" option that corresponds to your operating system. 
 
-2. If you are using Terminal (Mac) or GitBash (PC), you can pip install the necessary packages by typing: 
+2. If you are using Terminal (Mac/Linux) or GitBash (PC), you can pip install the necessary packages by typing: 
 
 `$ pip install pandas numpy matplotlib jupyter`
 
